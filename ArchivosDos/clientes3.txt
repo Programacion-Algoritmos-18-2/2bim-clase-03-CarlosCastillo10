@@ -1,0 +1,2 @@
+10 René Elizalde 200,00
+11 Juan	Lasso 1000,2
